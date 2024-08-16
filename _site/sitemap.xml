@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about/</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/elements/</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/remember-that-happiness-is-a-way-of-travel-not-a-destination</loc>
@@ -66,11 +66,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/work/common-calculator-with-pv</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/work/common-pests</loc>
-<lastmod>2024-08-16T16:28:10-07:00</lastmod>
+<lastmod>2024-08-16T16:28:33-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
