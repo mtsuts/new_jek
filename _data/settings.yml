@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Mariam
+title: Mariam Tsutskiridze
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  author__name: Mariam Tsutskiridze
+  author__bio: I am Software Developer, specializing in web development and data visualization, I create dynamic and engaging user experiences through innovative design and code. I’m now expanding my skills into backend development, aiming to become a well-rounded full-stack developer.
   author__avatar: '/images/01.jpg'
 
 social:
@@ -49,8 +49,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  hero__title: Mariam Tsutskiridze
+  hero__description: I am Software Developer, specializing in web development and data visualization, I create dynamic and engaging user experiences through innovative design and code. I’m now expanding my skills into backend development, aiming to become a well-rounded full-stack developer.
+
   hero__image: "/images/01-1.jpg"
 
 
