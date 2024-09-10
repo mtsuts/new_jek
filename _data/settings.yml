@@ -46,7 +46,7 @@ social:
 hero:
   enable: true
   hero__title: Mariam Tsutskiridze
-  hero__description: I'm a full-stack developer with a passion for building awesome web apps using JavaScript. I work with Node.js on the backend and love using React, SvelteKit, and D3.js to create engaging, interactive frontends. I also use MongoDB and Mongoose to manage data and Strapi for content management. I enjoy tackling both front-end and back-end challenges and bringing ideas to life with clean, scalable code..
+  hero__description: I'm a full-stack developer with a passion for building awesome web apps using JavaScript. I work with Node.js on the backend and love using React, SvelteKit, and D3.js to create engaging, interactive frontends. I also use MongoDB and Mongoose to manage data and Strapi for content management. I enjoy tackling both front-end and back-end challenges and bringing ideas to life with clean, scalable code.
   hero__image: "/images/01-2.jpg"
 
 
