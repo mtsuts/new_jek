@@ -55,7 +55,7 @@ hero:
 work:
   enable: true
   work__title: My Works
-  work__description: Projects without NDI
+  work__description: Projects without NDA
 
 
 #-------------------------------
