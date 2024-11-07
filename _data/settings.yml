@@ -1,10 +1,10 @@
+---
 #-------------------------------
 # Site Settings
 title: Mariam T.
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Portfolio of Mariam Tsutskiridze
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
 
 #-------------------------------
 # Navigation Settings
@@ -25,7 +25,6 @@ menu__settings:
     #   - url: '/elements/'
     #     title: 'Elements'
 
-
 #-------------------------------
 # Author Settings
 author:
@@ -34,21 +33,22 @@ author:
   # author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-github", link: "https://github.com/mtsuts"}
-
+  - { icon: 'ion-logo-github', link: 'https://github.com/mtsuts' }
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
+# styles
+display: flex
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero__title: Mariam Tsutskiridze
-  hero__description: Software Engineer with demonstrated expertise in building functional web applications using a range of JavaScript frameworks and libraries, including SvelteKit, React.js, and Node.js. Skilled in front-end development, backend integration, database management with MongoDB Atlas, supabase and data visualization with d3.js Below are examples of my work.
-  hero__image: "/images/01-2.jpg"
-
+  hero__title: Hi, I am Mariam
+  hero__description: Software Developer with demonstrated expertise in building functional web applications using a range of JavaScript frameworks and libraries, including SvelteKit, React.js, and Node.js. Skilled in front-end development, backend integration, database management with MongoDB Atlas, supabase and data visualization with d3.js. Below are examples of my work.
+  hero__icons: <a target="_blank" href='https://github.com/mtsuts'> <img width=30 height=30 src='/images/github-mark.svg'/></a> <a target="_blank" href="mailto:mariamtsuts@gmail.com"> <img width=40 height=40 src='/images/gmail.svg'/></a>
+  hero__image: '/images/01-2.jpg'
 
 #-------------------------------
 # Work Settings
@@ -56,7 +56,6 @@ work:
   enable: true
   work__title: My Works
   work__description: Projects without NDA
-
 
 #-------------------------------
 # # Blog Section
@@ -67,10 +66,9 @@ work:
 #   blog__title: Writing
 #   blog__description:
 
-
 # #-------------------------------
 # Footer Settings
-footer__background__image: "/images/banner-below.JPEG"
+footer__background__image: '/images/banner-below.JPEG'
 
 #-------------------------------
 # Contact Settings
@@ -81,13 +79,11 @@ contact:
 # NOTE
 # Mariam theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
   enable: true
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
 
 #-------------------------------
 # Google Analytics

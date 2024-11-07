@@ -59,6 +59,11 @@
   }
 }
 
+.hero__icons {
+  display: flex;
+  gap: 2px;
+}
+
 .hero__subscribe {
   margin-top: 28px;
 
@@ -100,7 +105,6 @@
   }
 
   @media (max-width: $mobile) {
-
     .subscribe-form {
       display: flex;
       flex-direction: column;
@@ -124,7 +128,7 @@
   position: relative;
 
   &::before {
-    content: "";
+    content: '';
     position: absolute;
     display: block;
     width: 100%;
@@ -133,7 +137,7 @@
     margin-left: -32px;
     border-radius: $global-radius;
     background-color: var(--primary-color);
-    opacity: .3;
+    opacity: 0.3;
     filter: blur(20px);
   }
 
