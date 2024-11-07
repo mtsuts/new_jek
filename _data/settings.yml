@@ -47,7 +47,7 @@ hero:
   enable: true
   hero__title: Hi, I am Mariam
   hero__description: Software Developer with demonstrated expertise in building functional web applications using a range of JavaScript frameworks and libraries, including SvelteKit, React.js, and Node.js. Skilled in front-end development, backend integration, database management with MongoDB Atlas, supabase and data visualization with d3.js. Below are examples of my work.
-  hero__icons: <a target="_blank" href='https://github.com/mtsuts'> <img width=30 height=30 src='/images/github-mark.svg'/></a> <a target="_blank" href="mailto:mariamtsuts@gmail.com"> <img width=40 height=40 src='/images/gmail.svg'/></a>
+  hero__icons: Contact me:<a target="_blank" href='https://github.com/mtsuts'> <img width=30 height=30 src='/images/github-mark.svg'/></a> <a target="_blank" href="mailto:mariamtsuts@gmail.com"> <img width=35 height=35 src='/images/gmail.svg'/></a>
   hero__image: '/images/01-2.jpg'
 
 #-------------------------------

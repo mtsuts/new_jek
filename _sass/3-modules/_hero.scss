@@ -60,7 +60,9 @@
 }
 
 .hero__icons {
+  color: var(--text-alt-color);
   display: flex;
+  align-items: center;
   gap: 2px;
 }
 
